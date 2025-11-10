@@ -1,8 +1,7 @@
-tensorflow>=2.10
+Flask
+tensorflow
 numpy
-pandas
-scikit-learn
-flask
+Pillow
+werkzeug
+gunicorn
 opencv-python
-pillow
-h5py
